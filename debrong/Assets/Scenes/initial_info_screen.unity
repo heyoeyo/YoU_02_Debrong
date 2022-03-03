@@ -193,7 +193,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Try to complete all 5 levels!
+  m_Text: Try to complete all 4 levels!
 --- !u!222 &83870873
 CanvasRenderer:
   m_ObjectHideFlags: 0
